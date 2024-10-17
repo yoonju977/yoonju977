@@ -35,10 +35,6 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
@@ -80,7 +76,6 @@
 <br>
 <div align='center'>
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=spring" alt="Springboot" width="65" height="65" />
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="65" height="65" />
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="65" height="65" />
   <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="65" height="65" />
