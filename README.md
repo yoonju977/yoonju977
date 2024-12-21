@@ -64,9 +64,6 @@
         <img src="https://github.com/user-attachments/assets/ef055194-5b48-4da6-9d03-53cdd2e3c134" alt="Pandas" width="65" height="65" />
       <br>Pandas
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=r" alt="R" width="65" height="65" />
-      <br>R
   </tr>    
 </table>
 <br><br>
@@ -83,6 +80,9 @@
 <!--   <img src="https://github.com/user-attachments/assets/5ae0f144-ecb6-470e-a438-093930aa83ba" alt="3D Slicer" width="65" height="65" />
   <img src="https://github.com/user-attachments/assets/0669677d-f598-4218-a875-07afe1f6b223" alt="ITK-Snap" width="65" height="65" />
   <img src="https://github.com/user-attachments/assets/cf381a11-d399-4529-b4f3-c0dad3347e48" alt="Hugging Face" width="65" height="65" /> -->
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=r" alt="R" width="65" height="65" />
+      <br>
 </div>
 
 <hr>
