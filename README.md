@@ -20,7 +20,7 @@ Looking for new-grad Cloud, DevOps, or Platform Engineer roles.
 
 `AWS ECS` `EC2 g4dn` `ALB` `Auto Scaling` `CloudFormation` `GitHub Actions` `Docker`
 
-**BowwoW_Care**: pet healthcare app with 8 features (graduation thesis at **Hankuk University of Foreign Studies**, 2nd place in department capstone) &nbsp; `2025.02 – 2025.06` &nbsp; [Backend](https://github.com/BeThePet/Backend) · [Frontend](https://github.com/BeThePet/Frontend)<br>
+**BowwoW_Care**: pet healthcare app with 8 features (graduation thesis at **HUFS**, 2nd place in department capstone) &nbsp; `2025.02 – 2025.06` &nbsp; [Backend](https://github.com/BeThePet/Backend) · [Frontend](https://github.com/BeThePet/Frontend)<br>
 *Team lead, owning infrastructure and model serving, in a team of 8 (BE 1, FE 2, AI 4)*
 - Split the system into 5 Docker containers on ECS Fargate with Blue-Green deployment. A 3-day launch served **103 users with zero incidents**.
 - Before building features, I set up security and monitoring: WAF managed rules and rate limiting, a private VPC subnet, Nginx TLS/HSTS, ECR image scanning, CloudWatch, and Whatap.
@@ -52,9 +52,9 @@ Looking for new-grad Cloud, DevOps, or Platform Engineer roles.
 
 ### Certifications & Education
 
-- AWS Certified Solutions Architect – Associate (2026)
-- SQL Developer (SQLD), **Korea Data Agency** (2025)
-- B.S. Biomedical Engineering, minor in Computer Engineering, **Hankuk University of Foreign Studies** (2025)
+- **AWS Certified Solutions Architect – Associate** (2026)
+- **SQL Developer (SQLD)** (2025)
+- B.S. Biomedical Engineering, minor in Computer Engineering, **HUFS** (2025)
 - Seocho AI College, **KAIST SW Education Center** (2025). Backend Bootcamp, 960 hours (2024)
 
 <sub>Before switching to software, I spent 6 years and 8 months in customer operations at the **Korea Racing Authority**. I standardized desk procedures there and cut repeat complaints from 4–5 a week to 0–1.</sub>
