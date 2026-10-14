@@ -52,7 +52,7 @@ Looking for new-grad Cloud, DevOps, or Platform Engineer roles.
 
 ### Certifications & Education
 
-- **AWS Certified Solutions Architect – Associate** (2026)
+- **AWS Certified Solutions Architect – Associate (SAA-C03)** (2026)
 - **SQL Developer (SQLD)** (2025)
 - B.S. Biomedical Engineering, minor in Computer Engineering, **HUFS** (2025)
 - Seocho AI College, **KAIST SW Education Center** (2025). Backend Bootcamp, 960 hours (2024)
