@@ -4,7 +4,7 @@
 
 I design AWS infrastructure, automate deployments, and operate services with real users. My most recent service ran 50 hours for 786 beta users with zero downtime.
 
-Looking for new-grad Cloud, DevOps, or Platform Engineer roles.
+Looking for Cloud, DevOps, or Platform Engineer roles.
 
 [Portfolio](https://yoonju977.github.io/Portfolio/?view=pc)
 
@@ -44,7 +44,7 @@ Looking for new-grad Cloud, DevOps, or Platform Engineer roles.
 
 ### Skills
 
-**AWS** &nbsp; ECS (Fargate, EC2), ALB, Auto Scaling, VPC, WAF, ECR, RDS, S3, CloudWatch<br>
+**AWS** &nbsp; ECS (Fargate, EC2), ALB, Auto Scaling, VPC, WAF, ECR, RDS, S3, SQS, CloudWatch<br>
 **IaC & CI/CD** &nbsp; CloudFormation, GitHub Actions (Blue-Green, auto rollback)<br>
 **Containers & Networking** &nbsp; Docker, Nginx<br>
 **Security** &nbsp; Semgrep, pip-audit, Dependabot<br>
@@ -66,7 +66,7 @@ Looking for new-grad Cloud, DevOps, or Platform Engineer roles.
 
 &nbsp;
 
-**신입 클라우드 엔지니어 송윤주**입니다. AWS 인프라를 설계하고 배포를 자동화해 실제 사용자 앞에서 서비스를 운영합니다.
+**클라우드 엔지니어 송윤주**입니다. AWS 인프라를 설계하고 배포를 자동화해 실제 사용자 앞에서 서비스를 운영합니다.
 
 - **MeDeviSe** (2025, **KAIST SW교육센터**): Fargate가 GPU를 지원하지 않아 추론 서버만 EC2 g4dn으로 분리했고 CloudFormation으로 인프라를 코드화했습니다. 베타 50시간 동안 실사용자 786명을 장애 없이 받았습니다.
 - **반려견 통합 헬스케어 시스템** (2025, **한국외국어대학교** 학위논문, 8인 팀장): ECS Fargate에 Blue-Green 배포로 3일간 103명을 받았고 장애는 0건이었습니다. 기능 개발 전에 WAF, VPC, 모니터링부터 갖췄습니다.
