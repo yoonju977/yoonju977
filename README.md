@@ -46,7 +46,7 @@ Looking for Cloud, DevOps, or Platform Engineer roles.
 
 **AWS** &nbsp; ECS (Fargate, EC2), ALB, Auto Scaling, VPC, WAF, ECR, RDS, S3, SQS, CloudWatch<br>
 **IaC & CI/CD** &nbsp; CloudFormation, GitHub Actions (Blue-Green, auto rollback), Jenkins<br>
-**Containers & Networking** &nbsp; Docker, Nginx<br>
+**Containers & Networking** &nbsp; Docker, Nginx, Gunicorn, Daphne (WebSocket)<br>
 **Security** &nbsp; Semgrep, pip-audit, Dependabot<br>
 **Backend & Data** &nbsp; Python, FastAPI, Django, PostgreSQL, Redis
 
