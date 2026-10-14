@@ -1,6 +1,6 @@
 ## Yoonju Song (송윤주)
 
-**Cloud Engineer (New Grad)**, AWS
+**Cloud Engineer** AWS
 
 I design AWS infrastructure, automate deployments, and operate services with real users. My most recent service ran 50 hours for 786 beta users with zero downtime.
 
